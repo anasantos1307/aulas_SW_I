@@ -1,0 +1,15 @@
+C:\Users\LAB4\Desktop\Exercicio-aviao-04_04\bin\Debug\net7.0\Exercicio-aviao-04_04.exe
+C:\Users\LAB4\Desktop\Exercicio-aviao-04_04\bin\Debug\net7.0\Exercicio-aviao-04_04.deps.json
+C:\Users\LAB4\Desktop\Exercicio-aviao-04_04\bin\Debug\net7.0\Exercicio-aviao-04_04.runtimeconfig.json
+C:\Users\LAB4\Desktop\Exercicio-aviao-04_04\bin\Debug\net7.0\Exercicio-aviao-04_04.dll
+C:\Users\LAB4\Desktop\Exercicio-aviao-04_04\bin\Debug\net7.0\Exercicio-aviao-04_04.pdb
+C:\Users\LAB4\Desktop\Exercicio-aviao-04_04\obj\Debug\net7.0\Exercicio-aviao-04_04.csproj.AssemblyReference.cache
+C:\Users\LAB4\Desktop\Exercicio-aviao-04_04\obj\Debug\net7.0\Exercicio-aviao-04_04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB4\Desktop\Exercicio-aviao-04_04\obj\Debug\net7.0\Exercicio-aviao-04_04.AssemblyInfoInputs.cache
+C:\Users\LAB4\Desktop\Exercicio-aviao-04_04\obj\Debug\net7.0\Exercicio-aviao-04_04.AssemblyInfo.cs
+C:\Users\LAB4\Desktop\Exercicio-aviao-04_04\obj\Debug\net7.0\Exercicio-aviao-04_04.csproj.CoreCompileInputs.cache
+C:\Users\LAB4\Desktop\Exercicio-aviao-04_04\obj\Debug\net7.0\Exercicio-aviao-04_04.dll
+C:\Users\LAB4\Desktop\Exercicio-aviao-04_04\obj\Debug\net7.0\refint\Exercicio-aviao-04_04.dll
+C:\Users\LAB4\Desktop\Exercicio-aviao-04_04\obj\Debug\net7.0\Exercicio-aviao-04_04.pdb
+C:\Users\LAB4\Desktop\Exercicio-aviao-04_04\obj\Debug\net7.0\Exercicio-aviao-04_04.genruntimeconfig.cache
+C:\Users\LAB4\Desktop\Exercicio-aviao-04_04\obj\Debug\net7.0\ref\Exercicio-aviao-04_04.dll
