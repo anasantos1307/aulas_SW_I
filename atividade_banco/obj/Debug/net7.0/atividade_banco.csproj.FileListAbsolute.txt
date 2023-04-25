@@ -1,0 +1,15 @@
+C:\Users\LAB4\Desktop\atividade_banco\bin\Debug\net7.0\atividade_banco.exe
+C:\Users\LAB4\Desktop\atividade_banco\bin\Debug\net7.0\atividade_banco.deps.json
+C:\Users\LAB4\Desktop\atividade_banco\bin\Debug\net7.0\atividade_banco.runtimeconfig.json
+C:\Users\LAB4\Desktop\atividade_banco\bin\Debug\net7.0\atividade_banco.dll
+C:\Users\LAB4\Desktop\atividade_banco\bin\Debug\net7.0\atividade_banco.pdb
+C:\Users\LAB4\Desktop\atividade_banco\obj\Debug\net7.0\atividade_banco.csproj.AssemblyReference.cache
+C:\Users\LAB4\Desktop\atividade_banco\obj\Debug\net7.0\atividade_banco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB4\Desktop\atividade_banco\obj\Debug\net7.0\atividade_banco.AssemblyInfoInputs.cache
+C:\Users\LAB4\Desktop\atividade_banco\obj\Debug\net7.0\atividade_banco.AssemblyInfo.cs
+C:\Users\LAB4\Desktop\atividade_banco\obj\Debug\net7.0\atividade_banco.csproj.CoreCompileInputs.cache
+C:\Users\LAB4\Desktop\atividade_banco\obj\Debug\net7.0\atividade_banco.dll
+C:\Users\LAB4\Desktop\atividade_banco\obj\Debug\net7.0\refint\atividade_banco.dll
+C:\Users\LAB4\Desktop\atividade_banco\obj\Debug\net7.0\atividade_banco.pdb
+C:\Users\LAB4\Desktop\atividade_banco\obj\Debug\net7.0\atividade_banco.genruntimeconfig.cache
+C:\Users\LAB4\Desktop\atividade_banco\obj\Debug\net7.0\ref\atividade_banco.dll
